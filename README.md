@@ -146,4 +146,4 @@ Project ini dibuat untuk memahami:
 
 Nama : Yudha Tri Atmaja
 Program Studi : Sistem Informasi
-Universitas : UNiversitas Mulawarman
+Universitas : Universitas Mulawarman
