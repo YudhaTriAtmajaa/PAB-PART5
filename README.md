@@ -6,7 +6,7 @@ Aplikasi Flutter sederhana yang menampilkan daftar produk dengan fitur keranjang
 Dibangun menggunakan **Flutter** dan **Provider** sebagai solusi manajemen state.
 
 Aplikasi mencakup fitur pencarian produk, filter berdasarkan kategori, manajemen keranjang,  
-hingga halaman checkout produk.
+hingga halaman checkout lengkap dengan form pengiriman.
 
 ---
 
@@ -34,6 +34,7 @@ hingga halaman checkout produk.
 
 ### 5. Checkout
 - Ringkasan pesanan berisi nama produk, quantity, dan subtotal
+- Form data pengiriman: nama lengkap, alamat, dan nomor telepon
 - Tombol Place Order untuk menyelesaikan pembelian
 - Keranjang dikosongkan otomatis setelah order berhasil
 
@@ -100,7 +101,6 @@ Menggunakan **ChangeNotifier** agar setiap perubahan state langsung tercermin di
 - Flutter
 - Dart
 - Provider
-- Material Design 3
 
 ---
 
@@ -119,13 +119,26 @@ Project ini dibuat untuk memahami:
 # Foto Aplikasi
 
 ### Halaman Produk
-> Tambahkan screenshot halaman produk di sini
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7691333-5267-4c09-8162-c85b460bca8c" />
+
+### Tambah Produk Ke Keranjang
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8512489d-4b85-451d-ae99-acdc61fbd34b" />
 
 ### Halaman Keranjang
-> Tambahkan screenshot halaman keranjang di sini
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/012b9267-2983-4fef-a136-536b3cdc3db4" />
+
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f342fef2-a02e-4de1-808b-27442c66aff4" />
 
 ### Halaman Checkout
-> Tambahkan screenshot halaman checkout di sini
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34891b19-5969-4d7f-bcc6-e12858e4f894" />
+
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f56a158-3909-4986-9e9f-212d3afdf756" />
+
+### Filter Kategori
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01ea2d69-7e42-4595-b9ce-bcac96f65491" />
+
+### Pencarian Produk
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a77eaa09-167e-4708-ad01-8bc4f6e51bc8" />
 
 ---
 
